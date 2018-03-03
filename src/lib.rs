@@ -1,4 +1,3 @@
-#![feature(test)]
 extern crate regex;
 
 use regex::{Regex, Captures};
